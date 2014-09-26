@@ -1,8 +1,22 @@
 WSD FAQ
 ===
 
-* [Хотите провести WSD у себя в городе?](https://github.com/web-standards-ru/wsd-faq/blob/master/organization.md)
-* [Хотите помочь когда WSD проходит у вас?](https://github.com/web-standards-ru/wsd-faq/blob/master/volunteers.md)
-* [Хотите стать докладчиком на WSD?](https://github.com/web-standards-ru/wsd-faq/blob/master/speakers.md)
-* [Хотите стать спонсором WSD?](https://github.com/web-standards-ru/wsd-faq/blob/master/sponsors.md)
-* [Хотите поддержать WSD деньгами?](https://github.com/web-standards-ru/wsd-faq/blob/master/donate.md)
+Объединение «Веб-стандарты» — это некоммерческое сообщество, и проводимые нами конференции Web Standards Days  бесплатны как для участников, так и для выступающих.
+
+Нам просто нравится собирать вместе увлеченных людей, рассказывать и слушать о новых технологиях и общаться с разработчиками из разных городов.
+
+Принять участие в конференции может любой желающий, как в качестве гостя, так и в качестве организатора или спонсора.
+
+Ниже вы можете выбрать варианты участия:
+
+* Организуйте WSD в своем городе! [Что для этого нужно?](https://github.com/web-standards-ru/wsd-faq/blob/master/organization.md)
+* Хотите помочь когда WSD проходит у вас? Нам нужна помощь с подготовкой зала и во время конференции. [Окей, что нужно сделать?](https://github.com/web-standards-ru/wsd-faq/blob/master/volunteers.md)
+* Есть интересная тема? [Выступите с докладом!](https://github.com/web-standards-ru/wsd-faq/blob/master/speakers.md)
+* Хотите стать спонсором WSD? [Мы можем предложить разные варианты участия](https://github.com/web-standards-ru/wsd-faq/blob/master/sponsors.md)
+* Можете просто поддержать нас деньгами, чтобы переводы статей выходили чаще, а видео с конференций монтировалось быстрей : ) [Shut up and take my money!](https://github.com/web-standards-ru/wsd-faq/blob/master/donate.md)
+* Или просто приходите на наши конференции : )
+
+
+<!-- Участие
+Принять участие в жизни сообщества может каждый. Вы можете предложить редакции свои публикации, прийти на нашу встречу в качестве слушателя или докладчика. Если вы хотите помочь с организацией встреч в вашем городе, вы можете прислать нам свои предложения на wst@web-standards.ru.
+ -->
