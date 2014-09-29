@@ -10,7 +10,7 @@ WSD FAQ
 * Организуйте WSD в своем городе! [Что для этого нужно?](https://github.com/web-standards-ru/wsd-faq/blob/master/organization.md)
 * Хотите помочь когда WSD проходит у вас? Нам нужна помощь в зале. [Окей, что нужно сделать?](https://github.com/web-standards-ru/wsd-faq/blob/master/volunteers.md)
 * Есть интересная тема? [Выступите с докладом!](https://github.com/web-standards-ru/wsd-faq/blob/master/speakers.md)
-* Хотите стать спонсором WSD? [Мы можем предложить разные варианты участия](https://github.com/web-standards-ru/wsd-faq/blob/master/sponsors.md)
+* Хотите стать партнером WSD? [Мы можем предложить разные варианты участия](https://github.com/web-standards-ru/wsd-faq/blob/master/partners.md)
 * Можете просто поддержать нас деньгами, чтобы переводы статей выходили чаще, а видео с конференций монтировалось быстрей. [Shut up and take my money!](https://github.com/web-standards-ru/wsd-faq/blob/master/donate.md)
 * Или просто приходите на наши конференции : )
 
